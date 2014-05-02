@@ -1,0 +1,5 @@
+<apex:page controller="WalmartCtrl">
+	<apex:pageblock >
+	</apex:pageblock>
+	
+</apex:page>
