@@ -1,0 +1,20 @@
+Installation Instructions:
+
+1. Import the plugin to eclipse-ee as follows:
+	Help -> Install New Software -> Add -> 
+	Name: Force.com
+	Location: http://eclipse.poweredbypulse.com/downloads/partners/force.com/
+	
+2. Create new Force.com project as follows: 
+	File ->New -> Force.com project
+	Use following credentials 
+	Username: nikitarode@gmail.com	
+	Password: sdgroup3
+	Token: h78G25ImvaF074uAVIQweH3L 
+
+
+2. Force.com link and credentials to run the application:
+
+	Link:     https://levis-crm-management-dev-ed.my.salesforce.com/
+	Username: nikitarode@gmail.com	
+	Password: sdgroup3
