@@ -13,8 +13,11 @@ Installation Instructions:
 	Token: h78G25ImvaF074uAVIQweH3L 
 
 
-2. Force.com link and credentials to run the application:
+3. Force.com link and credentials to run the application:
 
 	Link:     https://levis-crm-management-dev-ed.my.salesforce.com/
 	Username: nikitarode@gmail.com	
 	Password: sdgroup3
+
+4. Password for every user is : password1234
+   If you need email verification for login, please contact us on nikitarode@gmail.com
