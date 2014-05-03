@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Levi&apos;s Formals</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Levi&apos;s Formals</value>
+    </caseValues>
+    <fields>
+        <label><!-- Formals_Quantity --></label>
+        <name>Formals_Quantity__c</name>
+    </fields>
+    <fields>
+        <label><!-- Formals_URL --></label>
+        <name>Formals_URL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Formals_clearance --></label>
+        <name>Formals_clearance__c</name>
+    </fields>
+    <fields>
+        <label><!-- Formals_cloth --></label>
+        <name>Formals_cloth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Formals_discount --></label>
+        <name>Formals_discount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Formals_price --></label>
+        <name>Formals_price__c</name>
+    </fields>
+    <fields>
+        <label><!-- Formals_size --></label>
+        <name>Formals_size__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

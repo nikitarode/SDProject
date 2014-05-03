@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Levis Shoes</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Levis Shoes</value>
+    </caseValues>
+    <fields>
+        <label><!-- Shoe_Clearance --></label>
+        <name>Shoe_Clearance__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shoe_URL --></label>
+        <name>Shoe_URL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shoe_discount --></label>
+        <name>Shoe_discount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shoe_price --></label>
+        <name>Shoe_price__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shoe_size --></label>
+        <name>Shoe_size__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shoe_type --></label>
+        <name>Shoe_type__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shoes_quantity --></label>
+        <name>Shoes_quantity__c</name>
+    </fields>
+    <nameFieldLabel>Product_ID</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

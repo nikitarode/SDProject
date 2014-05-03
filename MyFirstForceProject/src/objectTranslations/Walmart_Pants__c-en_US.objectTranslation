@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Walmart Pants</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Walmart Pants</value>
+    </caseValues>
+    <fields>
+        <label><!-- Product ID --></label>
+        <name>Name__c</name>
+        <relationshipLabel><!-- Walmart_Pants --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Walmart_Discount --></label>
+        <name>Walmart_Discount__c</name>
+    </fields>
+    <fields>
+        <help><!-- walmart sale price computed after discount --></help>
+        <label><!-- Walmart_FinalPrice --></label>
+        <name>Walmart_FinalPrice__c</name>
+    </fields>
+    <fields>
+        <label><!-- Walmart_units --></label>
+        <name>Walmart_units__c</name>
+    </fields>
+    <nameFieldLabel>Record_ID</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

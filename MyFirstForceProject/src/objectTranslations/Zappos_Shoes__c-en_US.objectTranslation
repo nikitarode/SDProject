@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Zappos Shoes</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Zappos Shoes</value>
+    </caseValues>
+    <fields>
+        <label><!-- Final Price --></label>
+        <name>Final_Price_shoes__c</name>
+    </fields>
+    <fields>
+        <label><!-- Product_ID --></label>
+        <name>Name__c</name>
+        <relationshipLabel><!-- Zappos_Shoes --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Shoes_discount --></label>
+        <name>Shoes_discount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shoes_quantity --></label>
+        <name>Shoes_quantity__c</name>
+    </fields>
+    <nameFieldLabel>Record_ID</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

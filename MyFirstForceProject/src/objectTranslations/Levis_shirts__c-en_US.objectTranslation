@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Levis Shirts</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Levis Shirts</value>
+    </caseValues>
+    <fields>
+        <label><!-- Shirt_Clearance --></label>
+        <name>Shirt_Clearance__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shirt_URL --></label>
+        <name>Shirt_URL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shirt_cloth --></label>
+        <name>Shirt_cloth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shirt_discount --></label>
+        <name>Shirt_discount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shirt_size --></label>
+        <name>Shirt_size__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shirts_Quantity --></label>
+        <name>Shirts_Quantity__c</name>
+    </fields>
+    <fields>
+        <label><!-- shirt_price --></label>
+        <name>shirt_price__c</name>
+    </fields>
+    <nameFieldLabel>Product_ID</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

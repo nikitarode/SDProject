@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HomePageComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <body>&lt;img src=&quot;http://www.thecouponingcouple.com/wp-content/uploads/2013/10/walmart_Logo-500x253.jpg&quot; width=&quot;200&quot; height=&quot;98&quot;&gt;</body>
+    <pageComponentType>htmlArea</pageComponentType>
+    <width>narrow</width>
+</HomePageComponent>

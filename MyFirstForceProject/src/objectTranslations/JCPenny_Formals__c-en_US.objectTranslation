@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Formals of JCP</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>JCPenny Formals</value>
+    </caseValues>
+    <fields>
+        <label><!-- Discount_Coupon --></label>
+        <name>Discount_Coupon__c</name>
+    </fields>
+    <fields>
+        <label><!-- Final Price --></label>
+        <name>Final_Price__c</name>
+    </fields>
+    <fields>
+        <label><!-- JCP_Discount --></label>
+        <name>JCP_Discount__c</name>
+    </fields>
+    <fields>
+        <label><!-- JCP_units --></label>
+        <name>JCP_units__c</name>
+    </fields>
+    <fields>
+        <label><!-- Product ID --></label>
+        <name>Name__c</name>
+        <relationshipLabel><!-- JCPenny_Formals --></relationshipLabel>
+    </fields>
+    <nameFieldLabel>Record_ID</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

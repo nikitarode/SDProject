@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HomePageComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <body>&lt;img src=&quot;http://www.ozjeans.com/wp-content/uploads/2012/04/Levis-logo-200x200.jpg&quot; width=&quot;200&quot; height=&quot;150&quot;&gt;</body>
+    <pageComponentType>htmlArea</pageComponentType>
+    <width>narrow</width>
+</HomePageComponent>

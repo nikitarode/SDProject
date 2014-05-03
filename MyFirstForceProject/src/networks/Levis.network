@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Network xmlns="http://soap.sforce.com/2006/04/metadata">
+    <allowMembersToFlag>false</allowMembersToFlag>
+    <branding>
+        <loginFooterText>Levis_salesforce.com</loginFooterText>
+        <loginLogo>Communities_Shared_Document_Folder/levis_jpg.jpg</loginLogo>
+        <primaryColor>#1797C0</primaryColor>
+        <primaryComplementColor>#FFFFFF</primaryComplementColor>
+        <quaternaryColor>#B1BAC1</quaternaryColor>
+        <quaternaryComplementColor>#222222</quaternaryComplementColor>
+        <secondaryColor>#51606E</secondaryColor>
+        <tertiaryColor>#DDE4E9</tertiaryColor>
+        <tertiaryComplementColor>#222222</tertiaryComplementColor>
+        <zeronaryColor>#51606E</zeronaryColor>
+        <zeronaryComplementColor>#FFFFFF</zeronaryComplementColor>
+    </branding>
+    <changePasswordTemplate>unfiled$public/CommunityChangePasswordEmailTemplate</changePasswordTemplate>
+    <description>Levis Employee</description>
+    <emailSenderAddress>nikitarode@gmail.com</emailSenderAddress>
+    <emailSenderName>Levis User</emailSenderName>
+    <enableInvitation>false</enableInvitation>
+    <enableKnowledgeable>false</enableKnowledgeable>
+    <enablePrivateMessages>false</enablePrivateMessages>
+    <forgotPasswordTemplate>unfiled$public/CommunityForgotPasswordEmailTemplate</forgotPasswordTemplate>
+    <networkMemberGroups/>
+    <picassoSite>Levis_C</picassoSite>
+    <selfRegistration>false</selfRegistration>
+    <sendWelcomeEmail>true</sendWelcomeEmail>
+    <site>Levis</site>
+    <status>DownForMaintenance</status>
+    <tabs>
+        <customTab>Levi_s_Formals__c</customTab>
+        <customTab>Levi_s_Pants__c</customTab>
+        <customTab>Levis_shirts__c</customTab>
+        <customTab>Levis_shoes__c</customTab>
+        <defaultTab>Chatter</defaultTab>
+        <standardTab>Chatter</standardTab>
+    </tabs>
+    <urlPathPrefix>levisuser</urlPathPrefix>
+    <welcomeTemplate>unfiled$public/CommunityWelcomeEmailTemplate</welcomeTemplate>
+</Network>

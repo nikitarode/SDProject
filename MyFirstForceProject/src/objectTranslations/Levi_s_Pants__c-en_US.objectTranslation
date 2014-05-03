@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Levi&apos;s Pants</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Levi&apos;s Pants</value>
+    </caseValues>
+    <fields>
+        <label><!-- Clearance --></label>
+        <name>Clearance__c</name>
+    </fields>
+    <fields>
+        <label><!-- Pant_Cloth --></label>
+        <name>Pant_Cloth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Pant_URL --></label>
+        <name>Pant_URL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Pant_discount --></label>
+        <name>Pant_discount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Pant_price --></label>
+        <name>Pant_price__c</name>
+    </fields>
+    <fields>
+        <label><!-- Pants_Quantity --></label>
+        <name>Pants_Quantity__c</name>
+    </fields>
+    <fields>
+        <label><!-- Pant_Size --></label>
+        <name>Size__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
